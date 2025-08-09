@@ -1,0 +1,50 @@
+┌──(kali㉿kali)-[~]
+└─$ subfinder -d cocacola.com 
+
+               __    _____           __         
+   _______  __/ /_  / __(_)___  ____/ /__  _____
+  / ___/ / / / __ \/ /_/ / __ \/ __  / _ \/ ___/
+ (__  ) /_/ / /_/ / __/ / / / / /_/ /  __/ /    
+/____/\__,_/_.___/_/ /_/_/ /_/\__,_/\___/_/
+
+                projectdiscovery.io
+
+[INF] Current subfinder version v2.6.0 (outdated)
+[INF] Loading provider config from /home/kali/.config/subfinder/provider-config.yaml
+[INF] Enumerating subdomains for cocacola.com
+www.letseattogether.cocacola.com
+fosfor-fuseki-poc.cocacola.com
+fosfor-poc.cocacola.com
+fosfor-airflow-poc.cocacola.com
+fosfor-admin-poc.cocacola.com
+lumin-monitoring-poc.cocacola.com
+lumin-admin-poc.cocacola.com
+scan.cocacola.com
+secure.oh.cocacola.com
+letehamesebashku.cocacola.com
+www2.cocacola.com
+lumin-dremio-poc.cocacola.com
+www.retornaveis.cocacola.com
+dreamteam.cocacola.com
+cocacola.com
+mail.cocacola.com
+lumin-logs-poc.cocacola.com
+lumin-fuseki-poc.cocacola.com
+fosfor-logs-poc.cocacola.com
+fosfor-dremio-poc.cocacola.com
+lumin-jaeger-poc.cocacola.com
+lumin-airflow-poc.cocacola.com
+fosfor-monitoring-poc.cocacola.com
+www.cocacola.com
+dallas.cocacola.com
+gasdeverao.cocacola.com
+baml2signing.cocacola.com
+www.parceiroretornavel.cocacola.com
+register.cocacola.com
+secure.tabs.cocacola.com
+www.letehamesebashku.cocacola.com
+www.redirect.cocacola.com
+letseattogether.cocacola.com
+lumin-poc.cocacola.com
+fosfor-jaeger-poc.cocacola.com
+[INF] Found 35 subdomains for cocacola.com in 3 seconds 353 milliseconds
