@@ -1,0 +1,10 @@
+1> filetype: env "DB_PASSWORD"
+   filetype: log "password"
+
+2> index of:<movie file>
+
+3> find public webcams: inurl:/view/index.shtml
+
+4> Find exposed database dumps: filetype:sql "password"
+
+5> Find exposed config files: filetype:env "DB_PASSWORD"
